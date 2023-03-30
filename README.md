@@ -1,1 +1,1 @@
-# Geoloaction-OSINT
+# Geolocation-OSINT
