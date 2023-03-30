@@ -1,5 +1,5 @@
 # Geolocation-OSINT
-<p>If you like your Geolocation challenges,@quiztime try some of the below resources</p>
+<p>If you like your Geolocation challenges, @quiztime, try some of the below resources</p>
 <p>Maps & Image Resources</p>
 <ul>
  <li>https://bing.com/maps?FORM=Z9LH2</li>
