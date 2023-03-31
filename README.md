@@ -1,4 +1,4 @@
-# Geolocation-OSINT
+## Geolocation-OSINT
 <p>If you like your Geolocation challenges, @quiztime, try some of the below resources</p>
 <p>Maps & Image Resources</p>
 <ul>
@@ -24,7 +24,7 @@
  <li>https://timeanddate.com/</li>
  <li>http://wikimapia.org/</li>
  <li>https://yandex.com/maps/</li>
-</ul>
+ </ul>
 <p>Satellite Resources</p>
 <ul>
  <li>https://developers.google.com/earth-engine/datasets/</li>
