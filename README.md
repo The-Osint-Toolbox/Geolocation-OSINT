@@ -1,44 +1,44 @@
 ## Geolocation-OSINT
-<p>If you like your Geolocation challenges, @quiztime, try some of the below resources</p>
+<p>If you like your Geolocation challenges, @quiztime, try some of the below resources.</p>
 <p>Maps & Image Resources</p>
 <ul>
- <li>https://alltrails.com/</li>
- <li>https://bing.com/maps?FORM=Z9LH2</li>
- <li>https://calcmaps.com/</li>
- <li>http://data.mashedworld.com/dualmaps/map.htm?x=-87.981906&y=43.029482&z=16&gm=2&ve=4&gc=0&bz=1&bd=0&mw=1&mi=0&mg=1&mv=01</li>
- <li>https://google.com/maps</li>
- <li>https://geograph.org.uk/</li>
- <li>https://github.com/GONZOsint/gvision</li>
- <li>https://gridreferencefinder.com/</li>
- <li>https://instantstreetview.com/</li>
- <li>https://kartaview.org/map/</li>
- <li>https://openstreetmap.org/</li>
- <li>https://labs.tib.eu/geoestimation/</li>
- <li>https://mapillary.com//</li>
- <li>https://mc.bbbike.org/mc/</li>
- <li>https://openaerialmap.org/</li>
- <li>https://peakfinder.org/</li>
- <li>https://skydb.net/</li>
- <li>https://skyscraperpage.com/</li>
- <li>https://suncalc.org/</li>
- <li>https://timeanddate.com/</li>
- <li>http://wikimapia.org/</li>
- <li>https://yandex.com/maps/</li>
+ <li><a href="https://alltrails.com/">All Trails</a></li>
+ <li><a href="https://bing.com/maps?FORM=Z9LH2">Bing Maps</a></li>
+ <li><a href="https://calcmaps.com/">Calcmaps</a></li>
+ <li><a href="http://data.mashedworld.com/dualmaps/map.htm?x=-87.981906&y=43.029482&z=16&gm=2&ve=4&gc=0&bz=1&bd=0&mw=1&mi=0&mg=1&mv=01">Dual Maps</a></li>
+ <li><a href="https://google.com/maps">Google Maps</a></li>
+ <li><a href="https://geograph.org.uk/">Geograph UK</a></li>
+ <li><a href="https://github.com/GONZOsint/gvision">Gonzo</li>
+ <li><a href="https://gridreferencefinder.com/">Grid Reference Finder</a></li>
+ <li><a href="https://instantstreetview.com/">Instant Streetview</a></li>
+ <li><a href="https://kartaview.org/map/">Kartaview</a></li>
+ <li><a href="https://openstreetmap.org/">Open Street Maps</a></li>
+ <li><a href="https://labs.tib.eu/geoestimation/">Geo-Estimation</a></li>
+ <li><a href="https://mapillary.com/">Mapillary</a></li>
+ <li><a href="https://mc.bbbike.org/mc/">Bbbike</a></li>
+ <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
+ <li><a href="https://peakfinder.org/">Peak Finder</a></li>
+ <li><a href="https://skydb.net/">Skydb</a></li>
+ <li><a href="https://skyscraperpage.com/">Sky Scraper Page</a></li>
+ <li><a href="https://suncalc.org/">Suncalc</a></li>
+ <li><a href="https://timeanddate.com/">Time & Date</a></li>
+ <li><a href="http://wikimapia.org/">Wikimapia</a></li>
+ <li><a href="https://yandex.com/maps/">Yandex Maps</a></li>
  </ul>
 <p>Satellite Resources</p>
 <ul>
- <li>https://developers.google.com/earth-engine/datasets/</li>
- <li>https://earth.google.com/web/</li>
- <li>https://earthengine.google.com/</li>
- <li>https://scihub.copernicus.eu/</li>
- <li>https://sentinel-hub.com/</li>
- <li>https://soar.earth/</li>
- <li>https://zoom.earth/</li>
+ <li><a href="https://developers.google.com/earth-engine/datasets/">Developers Google Earth</a></li>
+ <li><a href="https://earth.google.com/web/">Google Earth</li>
+ <li><a href="https://earthengine.google.com/">Google Earth Engine</a></li>
+ <li><a href="https://scihub.copernicus.eu/">Scihub</a></li>
+ <li><a href="https://sentinel-hub.com/">Sentinel</a></li>
+ <li><a href="https://soar.earth/">Soar Earth</a></li>
+ <li><a href="https://zoom.earth/">Zoom</a></li>
 </ul>
 <p>Drone Resources</p>
 <ul>
- <li>https://dronestagr.am/</li>
- <li>https://travelwithdrone.com/</li>
- <li>https://airvuz.com/</li>
- <li>https://dronezon.com/category/best-drone-videos/</li>
+ <li><a href="https://dronestagr.am/">Drone Stagr</a></li>
+ <li><a href="https://travelwithdrone.com/">Travel With Drone</li>
+ <li><a href="https://airvuz.com/">Airvuz</a></li>
+ <li><a href="https://dronezon.com/category/best-drone-videos/">Dronezon</a></li>
 </ul>
