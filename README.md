@@ -42,8 +42,9 @@
  <li><a href="https://airvuz.com/">Airvuz</a></li>
  <li><a href="https://dronezon.com/category/best-drone-videos/">Dronezon</a></li>
 </ul>
-<p>Video Geolocation</p>
+ <p>Video Geolocation</p>
 <ul>
-    <li><a href="https://mattw.io/youtube-geofind/location">Youtube Geofind</a></li>
-</ul>
+  <li><a href="https://map.snapchat.com/@41.335703,-95.590514,2.00z">Snapmap</a></li>
+  <li><a href="https://mattw.io/youtube-geofind/location">Youtube Geofind</a></li>
+</ul> 
 <br></be>
