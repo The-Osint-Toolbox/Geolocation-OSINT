@@ -44,7 +44,7 @@
 </ul>
  <p>Video Geolocation</p>
 <ul>
-  <li><a href="https://map.snapchat.com/@41.335703,-95.590514,2.00z">Snapmap</a></li>
+  <li><a href="https://map.snapchat.com">Snapmap</a></li>
   <li><a href="https://mattw.io/youtube-geofind/location">Youtube Geofind</a></li>
 </ul> 
 <br></be>
