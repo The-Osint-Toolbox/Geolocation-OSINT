@@ -1,6 +1,10 @@
 ## Geolocation-OSINT
 <p>If you like your Geolocation challenges, @quiztime, try some of the below resources.</p>
-<p>Maps & Image Resources</p>
+<table>
+    <tr>
+        <td>Maps & Image Resources</tr>
+    </tr>
+</table>
 <ul>
  <li><a href="https://alltrails.com/">All Trails</a></li>
  <li><a href="https://bing.com/maps?FORM=Z9LH2">Bing Maps</a></li>
