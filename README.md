@@ -39,6 +39,7 @@
  <li><a href="https://peakfinder.org/">Peak Finder</a></li>
     <p>PeakFinder shows a 360° panoramic view from an arbitrary viewpoint of your choice.</p>
  <li><a href="https://skydb.net/">Skydb</a></li>
+    <p>SKYDB is the world's database about tall buildings.</p>
  <li><a href="https://skyscraperpage.com/">Sky Scraper Page</a></li>
  <li><a href="https://suncalc.org/">Suncalc</a></li>
  <li><a href="https://timeanddate.com/">Time & Date</a></li>
