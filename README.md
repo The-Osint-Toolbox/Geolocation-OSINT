@@ -47,6 +47,7 @@
  <li><a href="https://timeanddate.com/">Time & Date</a></li>
     <p>Current Time (World Clock) and online and printable Calendars for countries worldwide.</p>
  <li><a href="http://wikimapia.org/">Wikimapia</a></li>
+    <p>Wikimapia is an online editable map - you can describe any place on Earth. Or just surf the map discovering tonns of already marked places.</p>
  <li><a href="https://yandex.com/maps/">Yandex Maps</a></li>
  </ul>
 <p>Satellite Resources</p>
