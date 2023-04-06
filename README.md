@@ -20,7 +20,7 @@
     <p>The Geograph Britain and Ireland project aims to collect geographically representative photographs and information for every square kilometre of Great Britain and Ireland.</p>
 <li><a href="https://github.com/GONZOsint/gvision">Gonzo GVision</li>
     <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
- <li><a href="https://gridreferencefinder.com/">UK Grid Reference Finder</a></li>
+ <li><a href="https://gridreferencefinder.com/">Grid Reference Finder UK</a></li>
     <p>UK National Grid Map Reference Conversion for any location by simply right-clicking on the map. Postcode finder and bulk conversion tools.</p>
  <li><a href="https://instantstreetview.com/">Instant Streetview</a></li>
    <p>Instantly see a Google Street View of any supported location. Easily share and save your favourite views.<p>
@@ -36,6 +36,8 @@
     <p>BBBike Map Compare shows you more than 230 maps from OpenStreetMap, Google, Bing, Esri, Here and others side by side.</p>
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
     <p>OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services.</p>
+ <li> <a href="https://www.ordnancesurvey.co.uk/">Ordance Survey UK</a></li>
+    <p>Ordnance Survey (OS) is the national mapping agency for Great Britain.</p> 
  <li><a href="https://peakfinder.org/">Peak Finder</a></li>
     <p>PeakFinder shows a 360° panoramic view from an arbitrary viewpoint of your choice.</p>
  <li><a href="https://skydb.net/">Skydb</a></li>
