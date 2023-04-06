@@ -51,6 +51,7 @@
  <li><a href="https://yandex.com/maps/">Yandex Maps</a></li>
     <p>Yandex Maps will help you find your destination even if you don't have the exact address — get a route for taking public transport, driving, or walking.</p>
  </ul>
+ <br></br>
  <table>
     <tr>
         <td>Satellite Resources</td>
@@ -72,6 +73,7 @@
  <li><a href="https://zoom.earth/">Zoom</a></li>
     <p>World weather map. Track hurricanes, cyclones, storms. View LIVE satellite images, rain radar, forecast maps of wind, temperature for your location.</p>
 </ul>
+<br></br>
 <table>
     <tr>
         <td>Drone Resources</td>
@@ -87,6 +89,7 @@
  <li><a href="https://airvuz.com/">Airvuz</a></li>
  <li><a href="https://dronezon.com/category/best-drone-videos/">Dronezon</a></li>
 </ul>
+<br></br>
  <table>
     <tr>
         <td>Video Geolocation</td>
