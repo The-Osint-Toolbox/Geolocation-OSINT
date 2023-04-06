@@ -35,7 +35,9 @@
  <li><a href="https://mc.bbbike.org/mc/">Bbbike</a></li>
     <p>BBBike Map Compare shows you more than 230 maps from OpenStreetMap, Google, Bing, Esri, Here and others side by side.</p>
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
+    <p>OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services.</p>
  <li><a href="https://peakfinder.org/">Peak Finder</a></li>
+    <p>PeakFinder shows a 360° panoramic view from an arbitrary viewpoint of your choice.</p>
  <li><a href="https://skydb.net/">Skydb</a></li>
  <li><a href="https://skyscraperpage.com/">Sky Scraper Page</a></li>
  <li><a href="https://suncalc.org/">Suncalc</a></li>
