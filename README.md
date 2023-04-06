@@ -7,7 +7,9 @@
 </table>
 <ul>
  <li><a href="https://alltrails.com/">All Trails</a></li>
+   <p>AllTrails is a fitness and travel mobile app used in outdoor recreational activities.</p>
  <li><a href="https://bing.com/maps?FORM=Z9LH2">Bing Maps</a></li>
+   <p>Map multiple locations, get transit/walking/driving directions, view live traffic conditions, plan trips & view satellite.</p>
  <li><a href="https://calcmaps.com/">Calcmaps</a></li>
  <li><a href="http://data.mashedworld.com/dualmaps/map.htm?x=-87.981906&y=43.029482&z=16&gm=2&ve=4&gc=0&bz=1&bd=0&mw=1&mi=0&mg=1&mv=01">Dual Maps</a></li>
  <li><a href="https://google.com/maps">Google Maps</a></li>
