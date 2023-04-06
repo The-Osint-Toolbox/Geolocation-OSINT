@@ -29,7 +29,9 @@
  <li><a href="https://openstreetmap.org/">Open Street Maps</a></li>
     <p>OpenStreetMap is a map of the world, created by people like you and free to use under an open license.</p>
  <li><a href="https://labs.tib.eu/geoestimation/">Geo-Estimation</a></li>
+    <p>This tool demonstrates the automatic geolocation estimation of photos based on deep convolutional neural networks. In addition to the analysis of own photos, the user can compete in a quiz against the machine learning approach.</p>
  <li><a href="https://mapillary.com/">Mapillary</a></li>
+    <p>Access street-level imagery and map data from all over the world.</p>
  <li><a href="https://mc.bbbike.org/mc/">Bbbike</a></li>
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
  <li><a href="https://peakfinder.org/">Peak Finder</a></li>
