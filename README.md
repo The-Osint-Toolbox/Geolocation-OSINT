@@ -51,7 +51,11 @@
  <li><a href="https://yandex.com/maps/">Yandex Maps</a></li>
     <p>Yandex Maps will help you find your destination even if you don't have the exact address — get a route for taking public transport, driving, or walking.</p>
  </ul>
-<p>Satellite Resources</p>
+ <table>
+    <tr>
+        <td>Satellite Resources</td>
+    </tr>
+ </table>
 <ul>
  <li><a href="https://developers.google.com/earth-engine/datasets/">Developers Google Earth</a></li>
  <li><a href="https://earth.google.com/web/">Google Earth</li>
@@ -61,14 +65,22 @@
  <li><a href="https://soar.earth/">Soar Earth</a></li>
  <li><a href="https://zoom.earth/">Zoom</a></li>
 </ul>
-<p>Drone Resources</p>
+<table>
+    <tr>
+        <td>Drone Resources</td>
+    </tr>
+</table>
 <ul>
  <li><a href="https://dronestagr.am/">Drone Stagr</a></li>
  <li><a href="https://travelwithdrone.com/">Travel With Drone</li>
  <li><a href="https://airvuz.com/">Airvuz</a></li>
  <li><a href="https://dronezon.com/category/best-drone-videos/">Dronezon</a></li>
 </ul>
- <p>Video Geolocation</p>
+ <table>
+    <tr>
+        <td>Video Geolocation</td>
+    </tr>
+</table>
 <ul>
   <li><a href="https://map.snapchat.com">Snapmap</a></li>
     <p>Snap Map uses a device's location information to locate users on a virtual map that is visible to other Snapchat users.</p>
