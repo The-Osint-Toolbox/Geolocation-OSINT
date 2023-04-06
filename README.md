@@ -49,6 +49,7 @@
  <li><a href="http://wikimapia.org/">Wikimapia</a></li>
     <p>Wikimapia is an online editable map - you can describe any place on Earth. Or just surf the map discovering tonns of already marked places.</p>
  <li><a href="https://yandex.com/maps/">Yandex Maps</a></li>
+    <p>Yandex Maps will help you find your destination even if you don't have the exact address — get a route for taking public transport, driving, or walking.</p>
  </ul>
 <p>Satellite Resources</p>
 <ul>
