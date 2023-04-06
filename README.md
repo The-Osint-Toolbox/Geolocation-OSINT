@@ -23,6 +23,7 @@
  <li><a href="https://gridreferencefinder.com/">UK Grid Reference Finder</a></li>
   <p>UK National Grid Map Reference Conversion for any location by simply right-clicking on the map. Postcode finder and bulk conversion tools.</p>
  <li><a href="https://instantstreetview.com/">Instant Streetview</a></li>
+   <p>Instantly see a Google Street View of any supported location. Easily share and save your favourite views.<p>
  <li><a href="https://kartaview.org/map/">Kartaview</a></li>
  <li><a href="https://openstreetmap.org/">Open Street Maps</a></li>
  <li><a href="https://labs.tib.eu/geoestimation/">Geo-Estimation</a></li>
