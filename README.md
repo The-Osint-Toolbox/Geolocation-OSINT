@@ -80,7 +80,10 @@
 <ul>
  <li><a href="https://dronestagr.am/">Drone Stagr</a></li>
       <p>DRONESTAG is a global platform only dedicated to drone photography. Browse through 100.000 drone images and share your own ones with our community.</p>
+ <li><a href="https://mixkit.co/free-drone-footage/">Mixkit</a></li>
+     <p>Choose from incredible footage of things you couldn't otherwise see up close and explore videos made by drones of landscapes, forests, boats and cities.</p>
  <li><a href="https://travelwithdrone.com/">Travel With Drone</li>
+     <p>Travelwithdrone.com is an independent website where you can see free best drone videos from all over the world</p>
  <li><a href="https://airvuz.com/">Airvuz</a></li>
  <li><a href="https://dronezon.com/category/best-drone-videos/">Dronezon</a></li>
 </ul>
