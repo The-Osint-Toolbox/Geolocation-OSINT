@@ -58,7 +58,9 @@
  </table>
 <ul>
  <li><a href="https://developers.google.com/earth-engine/datasets/">Developers Google Earth</a></li>
+    <p>Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets.</p>
  <li><a href="https://earth.google.com/web/">Google Earth</li>
+     <p>Explore worldwide satellite imagery and 3D buildings and terrain for hundreds of cities. Zoom to your house or anywhere else,</p>
  <li><a href="https://earthengine.google.com/">Google Earth Engine</a></li>
  <li><a href="https://scihub.copernicus.eu/">Scihub</a></li>
  <li><a href="https://sentinel-hub.com/">Sentinel</a></li>
