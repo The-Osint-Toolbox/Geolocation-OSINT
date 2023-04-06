@@ -45,6 +45,7 @@
  <li><a href="https://suncalc.org/">Suncalc</a></li>
     <p>SunCalc shows the movement of the sun and sunlight-phase for a certain day at a certain place.</p>
  <li><a href="https://timeanddate.com/">Time & Date</a></li>
+    <p>Current Time (World Clock) and online and printable Calendars for countries worldwide.</p>
  <li><a href="http://wikimapia.org/">Wikimapia</a></li>
  <li><a href="https://yandex.com/maps/">Yandex Maps</a></li>
  </ul>
