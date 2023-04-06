@@ -15,6 +15,7 @@
  <li><a href="http://data.mashedworld.com/dualmaps/map.htm?x=-87.981906&y=43.029482&z=16&gm=2&ve=4&gc=0&bz=1&bd=0&mw=1&mi=0&mg=1&mv=01">Dual Maps</a></li>
     <p>Dual maps combine Google Maps, Birds Eye Imagery and Google Street View into one embeddable control. Dual Maps are free to use. No registration is required.</p>
  <li><a href="https://google.com/maps">Google Maps</a></li>
+    <p>Google Maps is a web mapping platform, It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets (Street View), real-time traffic conditions, and route planning for traveling by foot, car, bike, air and public transportation.</p>
  <li><a href="https://geograph.org.uk/">Geograph UK</a></li>
  <li><a href="https://github.com/GONZOsint/gvision">Gonzo</li>
  <li><a href="https://gridreferencefinder.com/">Grid Reference Finder</a></li>
