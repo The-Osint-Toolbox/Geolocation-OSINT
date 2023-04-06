@@ -7,9 +7,9 @@
 </table>
 <ul>
  <li><a href="https://alltrails.com/">All Trails</a></li>
-   <p>AllTrails is a fitness and travel mobile app used in outdoor recreational activities.</p>
+    <p>AllTrails is a fitness and travel mobile app used in outdoor recreational activities.</p>
  <li><a href="https://bing.com/maps?FORM=Z9LH2">Bing Maps</a></li>
-   <p>Map multiple locations, get transit/walking/driving directions, view live traffic conditions, plan trips & view satellite.</p>
+    <p>Map multiple locations, get transit/walking/driving directions, view live traffic conditions, plan trips & view satellite.</p>
  <li><a href="https://calcmaps.com/">Calcmaps</a></li>
     <p>An online resource that enables visitors to easily and quickly use maps in order to measure, search and overlay mark-up elements on maps for a wide range of useful applications.</p>
  <li><a href="http://data.mashedworld.com/dualmaps/map.htm?x=-87.981906&y=43.029482&z=16&gm=2&ve=4&gc=0&bz=1&bd=0&mw=1&mi=0&mg=1&mv=01">Dual Maps</a></li>
@@ -19,12 +19,13 @@
  <li><a href="https://geograph.org.uk/">Geograph UK</a></li>
     <p>The Geograph Britain and Ireland project aims to collect geographically representative photographs and information for every square kilometre of Great Britain and Ireland.</p>
 <li><a href="https://github.com/GONZOsint/gvision">Gonzo GVision</li>
-  <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
+    <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
  <li><a href="https://gridreferencefinder.com/">UK Grid Reference Finder</a></li>
-  <p>UK National Grid Map Reference Conversion for any location by simply right-clicking on the map. Postcode finder and bulk conversion tools.</p>
+    <p>UK National Grid Map Reference Conversion for any location by simply right-clicking on the map. Postcode finder and bulk conversion tools.</p>
  <li><a href="https://instantstreetview.com/">Instant Streetview</a></li>
    <p>Instantly see a Google Street View of any supported location. Easily share and save your favourite views.<p>
  <li><a href="https://kartaview.org/map/">Kartaview</a></li>
+    <p>KartaView,is a project to collect crowdsourced street-level photographs.</p>
  <li><a href="https://openstreetmap.org/">Open Street Maps</a></li>
  <li><a href="https://labs.tib.eu/geoestimation/">Geo-Estimation</a></li>
  <li><a href="https://mapillary.com/">Mapillary</a></li>
