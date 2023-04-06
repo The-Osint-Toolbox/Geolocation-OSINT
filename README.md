@@ -27,6 +27,7 @@
  <li><a href="https://kartaview.org/map/">Kartaview</a></li>
     <p>KartaView,is a project to collect crowdsourced street-level photographs.</p>
  <li><a href="https://openstreetmap.org/">Open Street Maps</a></li>
+    <p>OpenStreetMap is a map of the world, created by people like you and free to use under an open license.</p>
  <li><a href="https://labs.tib.eu/geoestimation/">Geo-Estimation</a></li>
  <li><a href="https://mapillary.com/">Mapillary</a></li>
  <li><a href="https://mc.bbbike.org/mc/">Bbbike</a></li>
