@@ -33,6 +33,7 @@
  <li><a href="https://mapillary.com/">Mapillary</a></li>
     <p>Access street-level imagery and map data from all over the world.</p>
  <li><a href="https://mc.bbbike.org/mc/">Bbbike</a></li>
+    <p>BBBike Map Compare shows you more than 230 maps from OpenStreetMap, Google, Bing, Esri, Here and others side by side.</p>
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
  <li><a href="https://peakfinder.org/">Peak Finder</a></li>
  <li><a href="https://skydb.net/">Skydb</a></li>
