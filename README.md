@@ -70,6 +70,7 @@
  <li><a href="https://soar.earth/">Soar Earth</a></li>
     <p>Soar is the new atlas of the world's maps and satellite imagery, crowd-sourced from individuals, organisations, and the broader community.</p>
  <li><a href="https://zoom.earth/">Zoom</a></li>
+    <p>World weather map. Track hurricanes, cyclones, storms. View LIVE satellite images, rain radar, forecast maps of wind, temperature for your location.</p>
 </ul>
 <table>
     <tr>
@@ -78,6 +79,7 @@
 </table>
 <ul>
  <li><a href="https://dronestagr.am/">Drone Stagr</a></li>
+      <p>DRONESTAG is a global platform only dedicated to drone photography. Browse through 100.000 drone images and share your own ones with our community.</p>
  <li><a href="https://travelwithdrone.com/">Travel With Drone</li>
  <li><a href="https://airvuz.com/">Airvuz</a></li>
  <li><a href="https://dronezon.com/category/best-drone-videos/">Dronezon</a></li>
