@@ -41,7 +41,9 @@
  <li><a href="https://skydb.net/">Skydb</a></li>
     <p>SKYDB is the world's database about tall buildings.</p>
  <li><a href="https://skyscraperpage.com/">Sky Scraper Page</a></li>
+    <p>Skyscraper enthusiast website featuring buildings database, discussion forum and skyscraper diagrams.</p>
  <li><a href="https://suncalc.org/">Suncalc</a></li>
+    <p>SunCalc shows the movement of the sun and sunlight-phase for a certain day at a certain place.</p>
  <li><a href="https://timeanddate.com/">Time & Date</a></li>
  <li><a href="http://wikimapia.org/">Wikimapia</a></li>
  <li><a href="https://yandex.com/maps/">Yandex Maps</a></li>
