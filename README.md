@@ -20,7 +20,8 @@
     <p>The Geograph Britain and Ireland project aims to collect geographically representative photographs and information for every square kilometre of Great Britain and Ireland.</p>
 <li><a href="https://github.com/GONZOsint/gvision">Gonzo GVision</li>
   <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
- <li><a href="https://gridreferencefinder.com/">Grid Reference Finder</a></li>
+ <li><a href="https://gridreferencefinder.com/">UK Grid Reference Finder</a></li>
+  <p>UK National Grid Map Reference Conversion for any location by simply right-clicking on the map. Postcode finder and bulk conversion tools.</p>
  <li><a href="https://instantstreetview.com/">Instant Streetview</a></li>
  <li><a href="https://kartaview.org/map/">Kartaview</a></li>
  <li><a href="https://openstreetmap.org/">Open Street Maps</a></li>
