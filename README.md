@@ -8,17 +8,21 @@
 <ul>
  <li><a href="https://alltrails.com/">All Trails</a></li>
     <p>AllTrails is a fitness and travel mobile app used in outdoor recreational activities.</p>
+ <li><a href="https://mc.bbbike.org/mc/">Bbbike</a></li>
+    <p>BBBike Map Compare shows you more than 230 maps from OpenStreetMap, Google, Bing, Esri, Here and others side by side.</p>
  <li><a href="https://bing.com/maps?FORM=Z9LH2">Bing Maps</a></li>
     <p>Map multiple locations, get transit/walking/driving directions, view live traffic conditions, plan trips & view satellite.</p>
  <li><a href="https://calcmaps.com/">Calcmaps</a></li>
     <p>An online resource that enables visitors to easily and quickly use maps in order to measure, search and overlay mark-up elements on maps for a wide range of useful applications.</p>
  <li><a href="http://data.mashedworld.com/dualmaps/map.htm?x=-87.981906&y=43.029482&z=16&gm=2&ve=4&gc=0&bz=1&bd=0&mw=1&mi=0&mg=1&mv=01">Dual Maps</a></li>
     <p>Dual maps combine Google Maps, Birds Eye Imagery and Google Street View into one embeddable control. Dual Maps are free to use. No registration is required.</p>
- <li><a href="https://google.com/maps">Google Maps</a></li>
-    <p>Google Maps is a web mapping platform, It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets (Street View), real-time traffic conditions, and route planning for traveling by foot, car, bike, air and public transportation.</p>
+ <li><a href="https://labs.tib.eu/geoestimation/">Geo-Estimation</a></li>
+    <p>This tool demonstrates the automatic geolocation estimation of photos based on deep convolutional neural networks. In addition to the analysis of own photos, the user can compete in a quiz against the machine learning approach.</p> 
  <li><a href="https://geograph.org.uk/">Geograph UK</a></li>
     <p>The Geograph Britain and Ireland project aims to collect geographically representative photographs and information for every square kilometre of Great Britain and Ireland.</p>
-<li><a href="https://github.com/GONZOsint/gvision">Gonzo GVision</li>
+ <li><a href="https://google.com/maps">Google Maps</a></li>
+    <p>Google Maps is a web mapping platform, It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets (Street View), real-time traffic conditions, and route planning for traveling by foot, car, bike, air and public transportation.</p>
+ <li><a href="https://github.com/GONZOsint/gvision">Gonzo GVision</li>
     <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
  <li><a href="https://gridreferencefinder.com/">Grid Reference Finder UK</a></li>
     <p>UK National Grid Map Reference Conversion for any location by simply right-clicking on the map. Postcode finder and bulk conversion tools.</p>
@@ -28,12 +32,10 @@
     <p>KartaView,is a project to collect crowdsourced street-level photographs.</p>
  <li><a href="https://openstreetmap.org/">Open Street Maps</a></li>
     <p>OpenStreetMap is a map of the world, created by people like you and free to use under an open license.</p>
- <li><a href="https://labs.tib.eu/geoestimation/">Geo-Estimation</a></li>
-    <p>This tool demonstrates the automatic geolocation estimation of photos based on deep convolutional neural networks. In addition to the analysis of own photos, the user can compete in a quiz against the machine learning approach.</p>
+ <li><a href="https://www.mapchecking.com/">Mapchecking</a></li>
+  <p>MapChecking helps you estimate the number of people standing in a given area. Fact check and debunk political claims during gatherings, march, and protests.</p>    
  <li><a href="https://mapillary.com/">Mapillary</a></li>
     <p>Access street-level imagery and map data from all over the world.</p>
- <li><a href="https://mc.bbbike.org/mc/">Bbbike</a></li>
-    <p>BBBike Map Compare shows you more than 230 maps from OpenStreetMap, Google, Bing, Esri, Here and others side by side.</p>
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
     <p>OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services.</p>
  <li> <a href="https://www.ordnancesurvey.co.uk/">Ordance Survey UK</a></li>
