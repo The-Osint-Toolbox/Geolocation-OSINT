@@ -1,6 +1,8 @@
 
 # Geolocation-OSINT
-<p><img src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png"></p>
+<p align="center">
+  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+</p>
 <p>If you like your Geolocation challenges, @quiztime, try some of the below resources.</p>
 <table>
     <tr>
