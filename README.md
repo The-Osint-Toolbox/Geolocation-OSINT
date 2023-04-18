@@ -1,10 +1,15 @@
 
 # Geolocation-OSINT
-<p>If you like your Geolocation challenges, @quiztime, try some of the below resources.</p>
-<br></br>
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
+ <p>If you like your Geolocation challenges, @quiztime, try some of the below resources. You may also need Image search resources, which can be found here.</p>
+<table>
+    <tr>
+        <td><a href="https://github.com/cqcore/Image-Research-OSINT">Image Research Resources</a></td>
+    </tr>
+</table>
+<br></br>
 <table>
     <tr>
         <td>Maps & Image Resources</tr>
