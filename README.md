@@ -49,9 +49,7 @@
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
     <p>OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services.</p>
  <li><a href="https://openstreetmap.org/">Open Street Maps</a></li>
-    <p>OpenStreetMap is a map of the world, created by people like you and free to use under an open license.</p>
- <li><a href="https://otc.armchairresearch.org/map">Open Traffic Cam</a></li>
-    <p>A collection of publicly accessible traffic camera feeds from the USA.</p>   
+    <p>OpenStreetMap is a map of the world, created by people like you and free to use under an open license.</p>  
  <li> <a href="https://www.ordnancesurvey.co.uk/">Ordance Survey UK</a></li>
     <p>Ordnance Survey (OS) is the national mapping agency for Great Britain.</p> 
  <li><a href="https://overpass-turbo.eu/">Overpass Turbo</a></li>
@@ -126,3 +124,15 @@
     <p>Web-tool to search YouTube for geographically tagged videos by channel, topic, and location. Videos are viewable in a map and exportabled to CSV.</p>
 </ul> 
 <br></be>
+<table>
+    <tr>
+        <td>Traffic Cameras</td>
+    </tr>
+</table>
+<ul>
+    <li><a href="https://otc.armchairresearch.org/map">Open Traffic Cam</a></li>
+     <p>A collection of publicly accessible traffic camera feeds from the USA.</p>
+    <li><a href="https://uktraffic.live/">UK Traffic Live</a></li>
+     <p>Real-time monitoring of the UK’s 4,339 live traffic cameras.</p>
+</ul>
+<br></br>
