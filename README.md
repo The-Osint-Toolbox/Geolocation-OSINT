@@ -42,18 +42,20 @@
     <p>Instantly see a Google Street View of any supported location. Easily share and save your favourite views.<p>
  <li><a href="https://kartaview.org/map/">Kartaview</a></li>
     <p>KartaView,is a project to collect crowdsourced street-level photographs.</p>
- <li><a href="https://openstreetmap.org/">Open Street Maps</a></li>
-    <p>OpenStreetMap is a map of the world, created by people like you and free to use under an open license.</p>
  <li><a href="https://www.mapchecking.com/">Mapchecking</a></li>
   <p>MapChecking helps you estimate the number of people standing in a given area. Fact check and debunk political claims during gatherings, march, and protests.</p>    
  <li><a href="https://mapillary.com/">Mapillary</a></li>
     <p>Access street-level imagery and map data from all over the world.</p>
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
     <p>OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services.</p>
+ <li><a href="https://openstreetmap.org/">Open Street Maps</a></li>
+    <p>OpenStreetMap is a map of the world, created by people like you and free to use under an open license.</p>
+ <li><a href="https://otc.armchairresearch.org/map">Open Traffic Cam</a></li>
+    <p>A collection of publicly accessible traffic camera feeds from the USA.</p>   
  <li> <a href="https://www.ordnancesurvey.co.uk/">Ordance Survey UK</a></li>
     <p>Ordnance Survey (OS) is the national mapping agency for Great Britain.</p> 
  <li><a href="https://overpass-turbo.eu/">Overpass Turbo</a></li>
-    <p>Overpass turbo is a web based data mining tool for OpenStreetMap.</p>   
+    <p>Overpass turbo is a web based data mining tool for OpenStreetMap.</p>    
  <li><a href="https://peakfinder.org/">Peak Finder</a></li>
     <p>PeakFinder shows a 360° panoramic view from an arbitrary viewpoint of your choice.</p>
  <li><a href="https://skydb.net/">Skydb</a></li>
