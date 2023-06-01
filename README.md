@@ -138,3 +138,13 @@
      <p>Waze Live Map is a browser-based version of the operational Waze maps. It displays current traffic and reports from Wazers using their client app.</p>
 </ul>
 <br></br>
+<table>
+    <tr>
+        <td>Blogs</tr>
+    </tr>
+</table>
+<ul>
+  <li><a href="https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/">Bellingcat</a></li>
+   <p>Finding Geolocation Leads with Bellingcat's OpenStreetMap Search Tool. (2023)</p>
+</ul>
+<br></br>
