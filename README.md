@@ -20,6 +20,8 @@
     <p>AllTrails is a fitness and travel mobile app used in outdoor recreational activities.</p>
  <li><a href="https://mc.bbbike.org/mc/">Bbbike</a></li>
     <p>BBBike Map Compare shows you more than 230 maps from OpenStreetMap, Google, Bing, Esri, Here and others side by side.</p>
+ <li><a href="https://osm-search.bellingcat.com/">Bellingcat</a></li> 
+   <p>Find Geolocation leads with Bellingcat's OpenStreetMap search tool.</p>
  <li><a href="https://bing.com/maps?FORM=Z9LH2">Bing Maps</a></li>
     <p>Map multiple locations, get transit/walking/driving directions, view live traffic conditions, plan trips & view satellite.</p>
  <li><a href="https://calcmaps.com/">Calcmaps</a></li>
