@@ -58,6 +58,8 @@
     <p>Overpass turbo is a web based data mining tool for OpenStreetMap.</p>    
  <li><a href="https://peakfinder.org/">Peak Finder</a></li>
     <p>PeakFinder shows a 360° panoramic view from an arbitrary viewpoint of your choice.</p>
+ <li><a href="https://peakvisor.com/">Peakvisor</a></li> 
+   <p>PeakVisor uses your iPhone's camera and augmented reality (AR) technology to display names and elevation of nearby peaks.</p> 
  <li><a href="https://skydb.net/">Skydb</a></li>
     <p>SKYDB is the world's database about tall buildings.</p>
  <li><a href="https://skyscraperpage.com/">Sky Scraper Page</a></li>
