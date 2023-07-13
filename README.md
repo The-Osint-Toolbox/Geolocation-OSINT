@@ -72,6 +72,8 @@
     <p>Current Time (World Clock) and online and printable Calendars for countries worldwide.</p>
   <li><a href="https://what3words.com/">What 3 Words</a></li>
   <p>Every 3 metre square of the world has been given a unique combination of three words. Used for e-commerce and delivery, navigation, emergencies and more.</p>   
+ <li><A href="https://www.wikiloc.com/">Wikiloc</A></li>
+    <p>Wikiloc is a place to discover and share the best outdoor trails for hiking, cycling and many other activities.</p>
  <li><a href="http://wikimapia.org/">Wikimapia</a></li>
     <p>Wikimapia is an online editable map - you can describe any place on Earth. Or just surf the map discovering tonns of already marked places.</p>
  <li><a href="https://yandex.com/maps/">Yandex Maps</a></li>
