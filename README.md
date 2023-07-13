@@ -84,8 +84,8 @@
     </tr>
  </table>
 <ul>
-  <li><a href="https://sentinel-hub.com/">Sentinel</a></li>
-    <p>Sentinel Hub is an engine for processing of petabytes of satellite data. It is opening the doors for machine learning and helping hundreds of application.</p>
+ <li><a href="https://scihub.copernicus.eu/">Copernicus</a></li>
+  <p>The Copernicus Open Access Hub (previously known as Sentinels Scientific Data Hub) provides complete, free and open access to Sentinel-1, Sentinel-2, Sentinel-3 and Sentinel-5P user products.</p>
  <li><a href="https://developers.google.com/earth-engine/datasets/">Developers Google Earth</a></li>
     <p>Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets.</p>
  <li><a href="https://earth.google.com/web/">Google Earth</li>
