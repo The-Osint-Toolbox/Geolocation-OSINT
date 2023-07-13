@@ -84,14 +84,14 @@
     </tr>
  </table>
 <ul>
+  <li><a href="https://sentinel-hub.com/">Sentinel</a></li>
+    <p>Sentinel Hub is an engine for processing of petabytes of satellite data. It is opening the doors for machine learning and helping hundreds of application.</p>
  <li><a href="https://developers.google.com/earth-engine/datasets/">Developers Google Earth</a></li>
     <p>Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets.</p>
  <li><a href="https://earth.google.com/web/">Google Earth</li>
      <p>Explore worldwide satellite imagery and 3D buildings and terrain for hundreds of cities. Zoom to your house or anywhere else.</p>
  <li><a href="https://earthengine.google.com/">Google Earth Engine</a></li>
     <p>Google Earth Engine is a cloud-based geospatial analysis platform that enables users to visualize and analyze satellite images of our planet.</p>
- <li><a href="https://scihub.copernicus.eu/">Copernicus</a></li>
-    <p>The Copernicus Open Access Hub (previously known as Sentinels Scientific Data Hub) provides complete, free and open access to Sentinel-1, Sentinel-2, Sentinel-3 and Sentinel-5P user products.</p>
  <li><a href="https://discover.maxar.com/">Maxmar</a></li>
     <p>Maxar has the largest archive of high-resolution satellite imagery, with more than 3.8 million square kilometers of imagery.</p>
  <li><a href="https://sentinel-hub.com/">Sentinel</a></li>
