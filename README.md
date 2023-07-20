@@ -26,6 +26,8 @@
     <p>Map multiple locations, get transit/walking/driving directions, view live traffic conditions, plan trips & view satellite.</p>
  <li><a href="https://calcmaps.com/">Calcmaps</a></li>
     <p>An online resource that enables visitors to easily and quickly use maps in order to measure, search and overlay mark-up elements on maps for a wide range of useful applications.</p>
+ <li><a href="https://checkmypostcode.uk/">Check My Postcode</a></li>
+   <p>Use Check My Postcode to find out all the key information for UK local postcodes.</p>
  <li><a href="http://data.mashedworld.com/dualmaps/map.htm?x=-87.981906&y=43.029482&z=16&gm=2&ve=4&gc=0&bz=1&bd=0&mw=1&mi=0&mg=1&mv=01">Dual Maps</a></li>
     <p>Dual maps combine Google Maps, Birds Eye Imagery and Google Street View into one embeddable control. Dual Maps are free to use. No registration is required.</p>
  <li><a href="https://www.flickr.com/map/">Flickr Map</a></li>
