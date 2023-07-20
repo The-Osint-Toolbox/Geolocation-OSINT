@@ -82,6 +82,28 @@
     <p>Yandex Maps will help you find your destination even if you don't have the exact address — get a route for taking public transport, driving, or walking.</p>
  </ul>
  <br></br>
+<table>
+    <tr>
+        <td>UK Specific Resources</tr>
+    </tr>
+</table>
+<ul>
+<li><a href="https://checkmypostcode.uk/">Check My Postcode</a></li>
+  <p>Use Check My Postcode to find out all the key information for UK local postcodes.</p>
+<li><a href="https://www.doogal.co.uk/">Doogal</a></li>
+  <p>A site covering UK postcodes, map tools, cycling and Strava.</p>
+<li><a href="https://www.isladogs.co.uk/about-us/index.html">Mendip Data Systems</a></li>
+  <p>The site includes several commercial applications as well as a wide range of free example applications, code samples and extended articles.</p>
+<li><a href="https://ons.maps.arcgis.com/home/search.html?restrict=true&sortField=relevance&sortOrder=desc&searchTerm=tags%3AONS+Postcode+Directory#content">ONS Maps</a></li>
+  <p>The Office for National Statistics aggregates OS postcode data and data from other sources and provides it in a variety of formats.</p>
+<li><a href="https://www.opendoorlogistics.com/data/">>Open Door Logistics</a></li>
+  <p>Open Door Logistics provide free Shapefile polygons defining the boundaries of UK postcode areas, districts and sectors.</p>
+<li><a href="https://www.ordnancesurvey.co.uk/betterplaces">Ordance Survey</a></li>
+  <p>At OS, they use location data and intelligence to illuminate the unseen.</p>
+<li><a href="https://www.poweredbypaf.com/">Royal Mail PAF</a></li>
+  <p>Highly accurate address and Postcode information in Royal Mail’s Postcode Address File.</p>
+</ul>
+<br></a>br>
  <table>
     <tr>
         <td>Satellite Resources</td>
