@@ -103,7 +103,7 @@
 <li><a href="https://www.poweredbypaf.com/">Royal Mail PAF</a></li>
   <p>Highly accurate address and Postcode information in Royal Mail’s Postcode Address File.</p>
 </ul>
-<br></a>br>
+<br></br>
  <table>
     <tr>
         <td>Satellite Resources</td>
