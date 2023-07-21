@@ -49,9 +49,11 @@
  <li><a href="https://kartaview.org/map/">Kartaview</a></li>
     <p>KartaView,is a project to collect crowdsourced street-level photographs.</p>
  <li><a href="https://www.mapchecking.com/">Mapchecking</a></li>
-  <p>MapChecking helps you estimate the number of people standing in a given area. Fact check and debunk political claims during gatherings, march, and protests.</p>    
+   <p>MapChecking helps you estimate the number of people standing in a given area. Fact check and debunk political claims during gatherings, march, and protests.</p>    
+ <li><a href="https://www.mapcustomizer.com/">Map Customizer</a></li>
+   <p>You can use this site to plot multiple addresses on a single map using Google Maps.</p>
  <li><a href="https://mapillary.com/">Mapillary</a></li>
-    <p>Access street-level imagery and map data from all over the world.</p>
+   <p>Access street-level imagery and map data from all over the world.</p>
  <li><a href="https://www.mapquest.com/">MapQuest</a></li>
    <p>MapQuest created the world's first online mapping and turn-by-turn directions service.</p>
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
