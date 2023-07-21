@@ -40,7 +40,7 @@
     <p>Google Maps is a web mapping platform, It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets (Street View), real-time traffic conditions, and route planning for traveling by foot, car, bike, air and public transportation.</p>
  <li><a href="https://github.com/GONZOsint/gvision">Gonzo GVision</li>
     <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
- <li><a href="https://www.gps-coordinates.net/">>GPS Coordinates</a></li>
+ <li><a href="https://www.gps-coordinates.net/">GPS Coordinates</a></li>
   <p>Find the GPS coordinates of an address or a place.</p>
  <li><a href="https://gridreferencefinder.com/">Grid Reference Finder UK</a></li>
     <p>UK National Grid Map Reference Conversion for any location by simply right-clicking on the map. Postcode finder and bulk conversion tools.</p>
