@@ -184,5 +184,7 @@
 <ul>
   <li><a href="https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/">Bellingcat</a></li>
    <p>Finding Geolocation Leads with Bellingcat's OpenStreetMap Search Tool. (2023)</p>
+  <li><a href="https://www.lifewire.com/fake-gps-location-4165524">Lifewire</a></li> 
+   <p>How to fake a GPS Location on your phone. (2022)</p>
 </ul>
 <br></br>
