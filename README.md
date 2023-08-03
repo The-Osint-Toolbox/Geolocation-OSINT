@@ -42,8 +42,6 @@
     <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
  <li><a href="https://www.gps-coordinates.net/">GPS Coordinates</a></li>
   <p>Find the GPS coordinates of an address or a place.</p>
- <li><a href="https://www.qgis.org/en/site/">QGIS</a></li>  
-  <p>Create, edit, visualise, analyse and publish geospatial information on Windows, macOS, Linux, BSD and mobile devices.</p> 
  <li><a href="https://gridreferencefinder.com/">Grid Reference Finder UK</a></li>
     <p>UK National Grid Map Reference Conversion for any location by simply right-clicking on the map. Postcode finder and bulk conversion tools.</p>
  <li><a href="https://instantstreetview.com/">Instant Streetview</a></li>
@@ -69,7 +67,9 @@
  <li><a href="https://peakfinder.org/">Peak Finder</a></li>
     <p>PeakFinder shows a 360° panoramic view from an arbitrary viewpoint of your choice.</p>
  <li><a href="https://peakvisor.com/">Peakvisor</a></li> 
-   <p>PeakVisor uses your iPhone's camera and augmented reality (AR) technology to display names and elevation of nearby peaks.</p> 
+   <p>PeakVisor uses your iPhone's camera and augmented reality (AR) technology to display names and elevation of nearby peaks.</p>
+ <li><a href="https://www.qgis.org/en/site/">QGIS</a></li>  
+  <p>Create, edit, visualise, analyse and publish geospatial information on Windows, macOS, Linux, BSD and mobile devices.</p> 
  <li><a href="https://skydb.net/">Skydb</a></li>
     <p>SKYDB is the world's database about tall buildings.</p>
  <li><a href="https://skyscraperpage.com/">Sky Scraper Page</a></li>
