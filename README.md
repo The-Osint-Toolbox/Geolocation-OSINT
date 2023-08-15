@@ -188,5 +188,7 @@
    <p>Finding Geolocation Leads with Bellingcat's OpenStreetMap Search Tool. (2023)</p>
   <li><a href="https://www.lifewire.com/fake-gps-location-4165524">Lifewire</a></li>
    <p>How to fake a GPS Location on your phone. (2022)</p>
+  <li><a href="https://medium.com/@viktor.osint/exploring-satellite-osint-tools-a-deep-dive-into-satellite-intelligence-68de444b080c">Viktor OSINT</a></li> 
+   <p>Exploring satellite OSINT tools: A deep dive into satellite intelligence. (2023)</p>
 </ul>
 <br></br>
