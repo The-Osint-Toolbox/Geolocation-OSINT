@@ -126,6 +126,8 @@
      <p>Explore worldwide satellite imagery and 3D buildings and terrain for hundreds of cities. Zoom to your house or anywhere else.</p>
  <li><a href="https://earthengine.google.com/">Google Earth Engine</a></li>
     <p>Google Earth Engine is a cloud-based geospatial analysis platform that enables users to visualize and analyze satellite images of our planet.</p>
+ <li><a href="https://maps.google.co.uk/intl/en_uk/earth/download/gep/agree.html">Google Earth Pro</a></li>
+   <p>The offline version of Google Earth a more versatile and complete option that’s designed to be downloaded to your desktop.</p>
  <li><a href="https://discover.maxar.com/">Maxmar</a></li>
     <p>Maxar has the largest archive of high-resolution satellite imagery, with more than 3.8 million square kilometers of imagery.</p>
  <li><a href="https://sentinel-hub.com/">Sentinel</a></li>
