@@ -22,6 +22,8 @@
     <p>BBBike Map Compare shows you more than 230 maps from OpenStreetMap, Google, Bing, Esri, Here and others side by side.</p>
  <li><a href="https://osm-search.bellingcat.com/">Bellingcat</a></li> 
    <p>Find Geolocation leads with Bellingcat's OpenStreetMap search tool.</p>
+ <li><a href="https://www.bellingcat.com/resources/2023/09/07/measuring-up-how-to-calculate-the-size-of-objects-in-open-source-material/">Bellingcat</a></li>
+  <p>How to calculate the size of objects in open source material.</p>
  <li><a href="https://bing.com/maps?FORM=Z9LH2">Bing Maps</a></li>
     <p>Map multiple locations, get transit/walking/driving directions, view live traffic conditions, plan trips & view satellite.</p>
  <li><a href="https://calcmaps.com/">Calcmaps</a></li>
