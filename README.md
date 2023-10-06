@@ -32,10 +32,12 @@
    <p>Use Check My Postcode to find out all the key information for UK local postcodes.</p>
  <li><a href="http://data.mashedworld.com/dualmaps/map.htm?x=-87.981906&y=43.029482&z=16&gm=2&ve=4&gc=0&bz=1&bd=0&mw=1&mi=0&mg=1&mv=01">Dual Maps</a></li>
     <p>Dual maps combine Google Maps, Birds Eye Imagery and Google Street View into one embeddable control. Dual Maps are free to use. No registration is required.</p>
+ <li><a href="https://demo.f4map.com/#camera.theta=0.9">F4 Maps</a></li>
+  <p>Explore the World in 3D.</p> 
  <li><a href="https://www.flickr.com/map/">Flickr Map</a></li>
- <p>Geolocated Flickr photographs displayed on a world map.</p>
+  <p>Geolocated Flickr photographs displayed on a world map.</p>
  <li><a href="https://labs.tib.eu/geoestimation/">Geo-Estimation</a></li>
-    <p>This tool demonstrates the automatic geolocation estimation of photos based on deep convolutional neural networks. In addition to the analysis of own photos, the user can compete in a quiz against the machine learning approach.</p> 
+  <p>This tool demonstrates the automatic geolocation estimation of photos based on deep convolutional neural networks. In addition to the analysis of own photos, the user can compete in a quiz against the machine learning approach.</p> 
  <li><a href="https://geograph.org.uk/">Geograph UK</a></li>
     <p>The Geograph Britain and Ireland project aims to collect geographically representative photographs and information for every square kilometre of Great Britain and Ireland.</p>
  <li><a href="https://google.com/maps">Google Maps</a></li>
