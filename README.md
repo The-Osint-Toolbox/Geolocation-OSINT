@@ -74,8 +74,10 @@
    <p>PeakVisor uses your iPhone's camera and augmented reality (AR) technology to display names and elevation of nearby peaks.</p>
  <li><a href="https://www.qgis.org/en/site/">QGIS</a></li>  
   <p>Create, edit, visualise, analyse and publish geospatial information on Windows, macOS, Linux, BSD and mobile devices.</p> 
+ <li><a href="shademap.app">ShadeMap</a></li> 
+  <p>Year round map of sun and shade.</p>
  <li><a href="https://skydb.net/">Skydb</a></li>
-    <p>SKYDB is the world's database about tall buildings.</p>
+   <p>SKYDB is the world's database about tall buildings.</p>
  <li><a href="https://skyscraperpage.com/">Sky Scraper Page</a></li>
     <p>Skyscraper enthusiast website featuring buildings database, discussion forum and skyscraper diagrams.</p>
  <li><a href="https://suncalc.org/">Suncalc</a></li>
