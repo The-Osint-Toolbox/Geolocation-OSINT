@@ -40,6 +40,8 @@
   <p>This tool demonstrates the automatic geolocation estimation of photos based on deep convolutional neural networks. In addition to the analysis of own photos, the user can compete in a quiz against the machine learning approach.</p> 
  <li><a href="https://geograph.org.uk/">Geograph UK</a></li>
     <p>The Geograph Britain and Ireland project aims to collect geographically representative photographs and information for every square kilometre of Great Britain and Ireland.</p>
+ <li><a href="https://geospy.web.app/">Geospy</a></li>
+    <p>Geospy will try to locate where an image was taken using AI</p>
  <li><a href="https://google.com/maps">Google Maps</a></li>
     <p>Google Maps is a web mapping platform, It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets (Street View), real-time traffic conditions, and route planning for traveling by foot, car, bike, air and public transportation.</p>
  <li><a href="https://github.com/GONZOsint/gvision">Gonzo GVision</li>
