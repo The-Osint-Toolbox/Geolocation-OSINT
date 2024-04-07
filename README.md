@@ -172,7 +172,7 @@
     </tr>
 </table>
 <ul>
-  <li><a href="https://map.snapchat.com">Snapmap</a></li>
+  <li><a href="https://map.snapchat.com">Snapmap (App Only)</a></li>
     <p>Snap Map uses a device's location information to locate users on a virtual map that is visible to other Snapchat users.</p>
   <li><a href="https://mattw.io/youtube-geofind/location">Youtube Geofind</a></li>
     <p>Web-tool to search YouTube for geographically tagged videos by channel, topic, and location. Videos are viewable in a map and exportabled to CSV.</p>
