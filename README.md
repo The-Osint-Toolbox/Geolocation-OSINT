@@ -77,9 +77,11 @@
  <li><a href="https://picarta.ai/">Picarta</a></li>
    <p>Picarta will predict where a photo has been taken in the world using Artificial Intelligence.</p>
  <li><a href="https://www.qgis.org/en/site/">QGIS</a></li>  
-   <p>Create, edit, visualise, analyse and publish geospatial information on Windows, macOS, Linux, BSD and mobile devices.</p> 
+   <p>Create, edit, visualise, analyse and publish geospatial information on Windows, macOS, Linux, BSD and mobile devices.</p>
+ <li><a href="https://cybdetective.com/quickgeolocationsearch.html">Quick Geolocation Search</a></li>
+  <p>This simple tool helps save a lot of time when gathering information about geolocation.</p>  
  <li><a href="shademap.app">ShadeMap</a></li> 
-  <p>Year round map of sun and shade.</p>
+   <p>Year round map of sun and shade.</p>
  <li><a href="https://skydb.net/">Skydb</a></li>
    <p>SKYDB is the world's database about tall buildings.</p>
  <li><a href="https://skyscraperpage.com/">Sky Scraper Page</a></li>
@@ -88,7 +90,7 @@
     <p>SunCalc shows the movement of the sun and sunlight-phase for a certain day at a certain place.</p>
  <li><a href="https://timeanddate.com/">Time & Date</a></li>
     <p>Current Time (World Clock) and online and printable Calendars for countries worldwide.</p>
-  <li><a href="https://what3words.com/">What 3 Words</a></li>
+ <li><a href="https://what3words.com/">What 3 Words</a></li>
   <p>Every 3 metre square of the world has been given a unique combination of three words. Used for e-commerce and delivery, navigation, emergencies and more.</p>   
  <li><A href="https://www.wikiloc.com/">Wikiloc</A></li>
     <p>Wikiloc is a place to discover and share the best outdoor trails for hiking, cycling and many other activities.</p>
