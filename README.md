@@ -198,21 +198,3 @@
      <p>Waze Live Map is a browser-based version of the operational Waze maps. It displays current traffic and reports from Wazers using their client app.</p>
 </ul>
 <br></br>
-<table>
-    <tr>
-        <td>Learning Resources</tr>
-    </tr>
-</table>
-<ul>
-  <li><a href="https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/">Bellingcat</a></li>
-   <p>Finding Geolocation Leads with Bellingcat's OpenStreetMap Search Tool. (2023)</p>
-  <li><a href="https://www.youtube.com/@Bendobrown">BenDoBrown</a></li>
-   <p>Ben's YouTube Channel.</p
-  <li><a href="https://www.lifewire.com/fake-gps-location-4165524">Lifewire</a></li>
-   <p>How to fake a GPS Location on your phone. (2022)</p>
-  <li><a href="https://www.youtube.com/playlist?list=PLwFbKk71Xo1z0mt31RyIyqrEdasfyOvbQ">Sofia Santos</a></li>
-   <p>Sofia's YouTube Channel.</p>
-  <li><a href="https://medium.com/@viktor.osint/exploring-satellite-osint-tools-a-deep-dive-into-satellite-intelligence-68de444b080c">Viktor OSINT</a></li> 
-   <p>Exploring satellite OSINT tools: A deep dive into satellite intelligence. (2023)</p>
-</ul>
-<br></br>
