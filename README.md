@@ -1,7 +1,7 @@
 
 # Geolocation-OSINT
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
  <p>If you like your Geolocation challenges, @quiztime, try some of the below resources. You may also need Image search resources, which can be found here.</p>
 <table>
@@ -24,6 +24,8 @@
    <p>Find Geolocation leads with Bellingcat's OpenStreetMap search tool.</p>
  <li><a href="https://www.bellingcat.com/resources/2023/09/07/measuring-up-how-to-calculate-the-size-of-objects-in-open-source-material/">Bellingcat</a></li>
   <p>How to calculate the size of objects in open source material.</p>
+ <li><a href="https://github.com/bellingcat/ShadowFinder">Bellingcat</a></li>
+  <p>ShadowFinder Find possible locations of shadows around the world.</p>
  <li><a href="https://bing.com/maps?FORM=Z9LH2">Bing Maps</a></li>
     <p>Map multiple locations, get transit/walking/driving directions, view live traffic conditions, plan trips & view satellite.</p>
  <li><a href="https://calcmaps.com/">Calcmaps</a></li>
