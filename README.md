@@ -18,6 +18,8 @@
 <ul>
  <li><a href="https://alltrails.com/">All Trails</a></li>
     <p>AllTrails is a fitness and travel mobile app used in outdoor recreational activities.</p>
+ <li><a href="https://beta.maps.apple.com/">Apple Maps</a></li>
+  <p>Beta verison of Apple maps web.</p>
  <li><a href="https://mc.bbbike.org/mc/">Bbbike</a></li>
     <p>BBBike Map Compare shows you more than 230 maps from OpenStreetMap, Google, Bing, Esri, Here and others side by side.</p>
  <li><a href="https://osm-search.bellingcat.com/">Bellingcat</a></li> 
@@ -75,7 +77,9 @@
  <li> <a href="https://www.ordnancesurvey.co.uk/">Ordance Survey UK</a></li>
     <p>Ordnance Survey (OS) is the national mapping agency for Great Britain.</p> 
  <li><a href="https://overpass-turbo.eu/">Overpass Turbo</a></li>
-    <p>Overpass turbo is a web based data mining tool for OpenStreetMap.</p>    
+    <p>Overpass turbo is a web based data mining tool for OpenStreetMap.</p>
+ <li><a href="https://explore.overturemaps.org/">Overture Maps</a></li>
+   <p>Access detailed building data, current social associations and metadata linked to the location.</p>
  <li><a href="https://peakfinder.org/">Peak Finder</a></li>
     <p>PeakFinder shows a 360° panoramic view from an arbitrary viewpoint of your choice.</p>
  <li><a href="https://peakvisor.com/">Peak Visor</a></li> 
