@@ -70,6 +70,8 @@
    <p>Access street-level imagery and map data from all over the world.</p>
  <li><a href="https://www.mapquest.com/">MapQuest</a></li>
    <p>MapQuest created the world's first online mapping and turn-by-turn directions service.</p>
+ <li><a href="https://www.locusmap.app/">Map Locus</a></li>
+  <p>Map App, for biking, hiking & camping.</p>
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
     <p>OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services.</p>
  <li><a href="https://openstreetmap.org/">Open Street Maps</a></li>
