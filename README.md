@@ -35,7 +35,9 @@
  <li><a href="https://checkmypostcode.uk/">Check My Postcode</a></li>
    <p>Use Check My Postcode to find out all the key information for UK local postcodes.</p>
  <li><a href="http://data.mashedworld.com/dualmaps/map.htm?x=-87.981906&y=43.029482&z=16&gm=2&ve=4&gc=0&bz=1&bd=0&mw=1&mi=0&mg=1&mv=01">Dual Maps</a></li>
-    <p>Dual maps combine Google Maps, Birds Eye Imagery and Google Street View into one embeddable control. Dual Maps are free to use. No registration is required.</p>
+   <p>Dual maps combine Google Maps, Birds Eye Imagery and Google Street View into one embeddable control. Dual Maps are free to use. No registration is required.</p>
+ <li><a href="https://earthkit.app/sift">EarthKit</a></li>
+   <p>A Nifty toolkit that helps you Geolocate faster with AI.</p>
  <li><a href="https://demo.f4map.com/#camera.theta=0.9">F4 Maps</a></li>
   <p>Explore the World in 3D.</p> 
  <li><a href="https://www.flickr.com/map/">Flickr Map</a></li>
