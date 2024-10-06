@@ -28,6 +28,8 @@
   <p>How to calculate the size of objects in open source material.</p>
  <li><a href="https://github.com/bellingcat/ShadowFinder">Bellingcat</a></li>
   <p>ShadowFinder Find possible locations of shadows around the world.</p>
+ <li><a href="https://grid.bellingcat.com/">Bellingcat</a></li>
+  <p>Search Grid Generator. Use the map to select an area of interest.</p>
  <li><a href="https://bing.com/maps?FORM=Z9LH2">Bing Maps</a></li>
     <p>Map multiple locations, get transit/walking/driving directions, view live traffic conditions, plan trips & view satellite.</p>
  <li><a href="https://calcmaps.com/">Calcmaps</a></li>
