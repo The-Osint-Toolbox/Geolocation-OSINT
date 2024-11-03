@@ -76,6 +76,8 @@
    <p>MapQuest created the world's first online mapping and turn-by-turn directions service.</p>
  <li><a href="https://www.locusmap.app/">Map Locus</a></li>
   <p>Map App, for biking, hiking & camping.</p>
+ <lI><a href="http://map.orhyginal.fr/">Map Orhyginal</a></lI>
+  <p>Map source aggregator.</p>
  <li><a href="https://neshan.org/">Neshan</a></li>
    <p>Persian / Iranian version of Google Maps</p>
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
