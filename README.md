@@ -96,6 +96,8 @@
    <p>PeakVisor uses your iPhone's camera and augmented reality (AR) technology to display names and elevation of nearby peaks.</p>
  <li><a href="https://picarta.ai/">Picarta</a></li>
    <p>Picarta will predict where a photo has been taken in the world using Artificial Intelligence.</p>
+ <li><a href="https://www.pogomap.info/">Pogomap</a></li>
+   <p>PogoMap.Info provides the community with a worldwide pokestop, gym.</p>
  <li><a href="https://www.qgis.org/en/site/">QGIS</a></li>  
    <p>Create, edit, visualise, analyse and publish geospatial information on Windows, macOS, Linux, BSD and mobile devices.</p>
  <li><a href="https://cybdetective.com/quickgeolocationsearch.html">Quick Geolocation Search</a></li>
