@@ -49,7 +49,7 @@
  <li><a href="https://geograph.org.uk/">Geograph UK</a></li>
     <p>The Geograph Britain and Ireland project aims to collect geographically representative photographs and information for every square kilometre of Great Britain and Ireland.</p>
  <li><a href="https://geospy.ai/">Geospy</a></li>
-    <p>Geospy will try to locate where an image was taken using AI.</p>
+  <p>Geospy will try to locate where an image was taken using AI</p>
  <li><a href="https://www.mapdevelopers.com/">Google Map Developers</a></li>
   <p>Map Developers provides prebuilt google maps functionality, along with custom built implementations made to your specifications.</p>
  <li><a href="https://google.com/maps">Google Maps</a></li>
