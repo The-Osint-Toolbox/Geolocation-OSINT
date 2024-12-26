@@ -101,7 +101,9 @@
  <li><a href="https://www.qgis.org/en/site/">QGIS</a></li>  
    <p>Create, edit, visualise, analyse and publish geospatial information on Windows, macOS, Linux, BSD and mobile devices.</p>
  <li><a href="https://cybdetective.com/quickgeolocationsearch.html">Quick Geolocation Search</a></li>
-  <p>This simple tool helps save a lot of time when gathering information about geolocation.</p>  
+  <p>This simple tool helps save a lot of time when gathering information about geolocation.</p>
+ <li><a href="https://shadowmap.org/">ShadowMap</a></li>
+   <p>Shadowmap helps you to visualize and analyze sunlight, shadows and solar potential.</p>
  <li><a href="shademap.app">ShadeMap</a></li> 
    <p>Year round map of sun and shade.</p>
  <li><a href="https://skydb.net/">Skydb</a></li>
