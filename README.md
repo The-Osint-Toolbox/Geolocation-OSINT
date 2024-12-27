@@ -57,15 +57,17 @@
  <li><a href="https://github.com/GONZOsint/gvision">Gonzo GVision</li>
    <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
  <li><a href="https://www.gps-coordinates.net/">GPS Coordinates</a></li>
-  <p>Find the GPS coordinates of an address or a place.</p>
+   <p>Find the GPS coordinates of an address or a place.</p>
  <li><a href="https://gridreferencefinder.com/">Grid Reference Finder UK</a></li>
-    <p>UK National Grid Map Reference Conversion for any location by simply right-clicking on the map. Postcode finder and bulk conversion tools.</p>
+   <p>UK National Grid Map Reference Conversion for any location by simply right-clicking on the map. Postcode finder and bulk conversion tools.</p>
  <li><a href="https://www.huntintel.io/">Huntintel</a></li>
-  <p>Find social media posts surrounding a location.</p>
+   <p>Find social media posts surrounding a location.</p>
  <li><a href="https://instantstreetview.com/">Instant Streetview</a></li>
-    <p>Instantly see a Google Street View of any supported location. Easily share and save your favourite views.<p>
+   <p>Instantly see a Google Street View of any supported location. Easily share and save your favourite views.<p>
  <li><a href="https://kartaview.org/map/">Kartaview</a></li>
-    <p>KartaView,is a project to collect crowdsourced street-level photographs.</p>
+   <p>KartaView,is a project to collect crowdsourced street-level photographs.</p>
+ <li><a href="https://usa.liveuamap.com/">Liveumap</a></li>
+   <p>Monitors and indicates activities on online geographic maps</p>
  <li><a href="https://www.mapchecking.com/">Mapchecking</a></li>
    <p>MapChecking helps you estimate the number of people standing in a given area. Fact check and debunk political claims during gatherings, march, and protests.</p>    
  <li><a href="https://www.mapcustomizer.com/">Map Customizer</a></li>
