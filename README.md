@@ -41,7 +41,9 @@
  <li><a href="https://earthkit.app/sift">EarthKit</a></li>
    <p>A Nifty toolkit that helps you Geolocate faster with AI.</p>
  <li><a href="https://demo.f4map.com/#camera.theta=0.9">F4 Maps</a></li>
-  <p>Explore the World in 3D.</p> 
+  <p>Explore the World in 3D.</p>
+ <li><a href="https://findthatspot.io/">Spot</a></li>
+  <p>Spot allows you to search for relations between entities in OpenStreetMap.</p>
  <li><a href="https://www.flickr.com/map/">Flickr Map</a></li>
   <p>Geolocated Flickr photographs displayed on a world map.</p>
  <li><a href="https://labs.tib.eu/geoestimation/">Geo-Estimation</a></li>
