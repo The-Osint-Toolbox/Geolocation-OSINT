@@ -42,8 +42,6 @@
    <p>A Nifty toolkit that helps you Geolocate faster with AI.</p>
  <li><a href="https://demo.f4map.com/#camera.theta=0.9">F4 Maps</a></li>
   <p>Explore the World in 3D.</p>
- <li><a href="https://findthatspot.io/">Spot</a></li>
-  <p>Spot allows you to search for relations between entities in OpenStreetMap.</p>
  <li><a href="https://www.flickr.com/map/">Flickr Map</a></li>
   <p>Geolocated Flickr photographs displayed on a world map.</p>
  <li><a href="https://labs.tib.eu/geoestimation/">Geo-Estimation</a></li>
@@ -55,9 +53,9 @@
  <li><a href="https://www.mapdevelopers.com/">Google Map Developers</a></li>
   <p>Map Developers provides prebuilt google maps functionality, along with custom built implementations made to your specifications.</p>
  <li><a href="https://google.com/maps">Google Maps</a></li>
-    <p>Google Maps is a web mapping platform, It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets (Street View), real-time traffic conditions, and route planning for traveling by foot, car, bike, air and public transportation.</p>
+  <p>Google Maps is a web mapping platform, It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets (Street View), real-time traffic conditions, and route planning for traveling by foot, car, bike, air and public transportation.</p>
  <li><a href="https://github.com/GONZOsint/gvision">Gonzo GVision</li>
-    <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
+   <p>GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.</p>
  <li><a href="https://www.gps-coordinates.net/">GPS Coordinates</a></li>
   <p>Find the GPS coordinates of an address or a place.</p>
  <li><a href="https://gridreferencefinder.com/">Grid Reference Finder UK</a></li>
@@ -77,9 +75,9 @@
  <li><a href="https://www.mapquest.com/">MapQuest</a></li>
    <p>MapQuest created the world's first online mapping and turn-by-turn directions service.</p>
  <li><a href="https://www.locusmap.app/">Map Locus</a></li>
-  <p>Map App, for biking, hiking & camping.</p>
+   <p>Map App, for biking, hiking & camping.</p>
  <lI><a href="http://map.orhyginal.fr/">Map Orhyginal</a></lI>
-  <p>Map source aggregator.</p>
+   <p>Map source aggregator.</p>
  <li><a href="https://neshan.org/">Neshan</a></li>
    <p>Persian / Iranian version of Google Maps</p>
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
@@ -112,12 +110,14 @@
    <p>SKYDB is the world's database about tall buildings.</p>
  <li><a href="https://skyscraperpage.com/">Sky Scraper Page</a></li>
     <p>Skyscraper enthusiast website featuring buildings database, discussion forum and skyscraper diagrams.</p>
+ <li><a href="https://findthatspot.io/">Spot</a></li>
+    <p>Spot allows you to search for relations between entities in OpenStreetMap.</p>
  <li><a href="https://suncalc.org/">Suncalc</a></li>
     <p>SunCalc shows the movement of the sun and sunlight-phase for a certain day at a certain place.</p>
  <li><a href="https://timeanddate.com/">Time & Date</a></li>
     <p>Current Time (World Clock) and online and printable Calendars for countries worldwide.</p>
  <li><a href="https://what3words.com/">What 3 Words</a></li>
-  <p>Every 3 metre square of the world has been given a unique combination of three words. Used for e-commerce and delivery, navigation, emergencies and more.</p>   
+    <p>Every 3 metre square of the world has been given a unique combination of three words. Used for e-commerce and delivery, navigation, emergencies and more.</p>   
  <li><A href="https://www.wikiloc.com/">Wikiloc</A></li>
     <p>Wikiloc is a place to discover and share the best outdoor trails for hiking, cycling and many other activities.</p>
  <li><a href="http://wikimapia.org/">Wikimapia</a></li>
