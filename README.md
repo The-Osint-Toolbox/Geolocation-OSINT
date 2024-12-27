@@ -82,12 +82,14 @@
    <p>Persian / Iranian version of Google Maps</p>
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
     <p>OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services.</p>
+ <li><a href="https://openinframap.org/">Open Infrastructure Map</a></li>
+   <p>Open Infrastructure Map is a view of the world's infrastructure mapped in the OpenStreetMap database.</p>
  <li><a href="https://openstreetmap.org/">Open Street Maps</a></li>
     <p>OpenStreetMap is a map of the world, created by people like you and free to use under an open license.</p>  
  <li> <a href="https://www.ordnancesurvey.co.uk/">Ordance Survey UK</a></li>
-    <p>Ordnance Survey (OS) is the national mapping agency for Great Britain.</p> 
+   <p>Ordnance Survey (OS) is the national mapping agency for Great Britain.</p> 
  <li><a href="https://overpass-turbo.eu/">Overpass Turbo</a></li>
-    <p>Overpass turbo is a web based data mining tool for OpenStreetMap.</p>
+   <p>Overpass turbo is a web based data mining tool for OpenStreetMap.</p>
  <li><a href="https://explore.overturemaps.org/">Overture Maps</a></li>
    <p>Access detailed building data, current social associations and metadata linked to the location.</p>
  <li><a href="https://peakfinder.org/">Peak Finder</a></li>
