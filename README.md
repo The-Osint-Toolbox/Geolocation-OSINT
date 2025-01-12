@@ -82,6 +82,8 @@
    <p>Map source aggregator.</p>
  <li><a href="https://neshan.org/">Neshan</a></li>
    <p>Persian / Iranian version of Google Maps</p>
+ <li><a href="https://omaps.worldofo.com/gmaps.php">Omaps</a></li>
+   <p>Orienteering Maps.</p>  
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
     <p>OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services.</p>
  <li><a href="https://openinframap.org/">Open Infrastructure Map</a></li>
