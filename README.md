@@ -66,6 +66,8 @@
    <p>Find social media posts surrounding a location.</p>
  <li><a href="https://instantstreetview.com/">Instant Streetview</a></li>
    <p>Instantly see a Google Street View of any supported location. Easily share and save your favourite views.<p>
+ <li><a href="https://map.kakao.com/">Kakao Map</a></li>
+  <p>Maps and navigation features for South Korea, including real-time traffic updates, public transit information, and directions to various locations.</p>     
  <li><a href="https://kartaview.org/map/">Kartaview</a></li>
    <p>KartaView,is a project to collect crowdsourced street-level photographs.</p>
  <li><a href="https://usa.liveuamap.com/">Liveumap</a></li>
