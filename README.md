@@ -17,9 +17,11 @@
 </table>
 <ul>
  <li><a href="https://alltrails.com/">All Trails</a></li>
-    <p>AllTrails is a fitness and travel mobile app used in outdoor recreational activities.</p>
- <li><a href="https://beta.maps.apple.com/">Apple Maps</a></li>
-  <p>Beta verison of Apple maps web.</p>
+    <p>AllTrails is a fitness and travel mobile app used in outdoor recreational activities. User-submitted geolocated photos are visible when viewing the map of a certain trail.</p>
+ <li><a href="https://maps.apple.com/">Apple Maps</a></li>
+  <p>Apple maps web. Listings link to Foursquare and and other services for pictures.</p>
+   <li><a href="https://lookmap.eu.pythonanywhere.com/">Apple Look Around Viewer</a></li>
+  <p>Easier way to view Apple Look Around panoramas.</p>
  <li><a href="https://mc.bbbike.org/mc/">Bbbike</a></li>
     <p>BBBike Map Compare shows you more than 230 maps from OpenStreetMap, Google, Bing, Esri, Here and others side by side.</p>
  <li><a href="https://osm-search.bellingcat.com/">Bellingcat</a></li> 
@@ -30,8 +32,8 @@
   <p>ShadowFinder Find possible locations of shadows around the world.</p>
  <li><a href="https://grid.bellingcat.com/">Bellingcat</a></li>
   <p>Search Grid Generator. Use the map to select an area of interest.</p>
- <li><a href="https://bing.com/maps?FORM=Z9LH2">Bing Maps</a></li>
-    <p>Map multiple locations, get transit/walking/driving directions, view live traffic conditions, plan trips & view satellite.</p>
+ <li><a href="https://bing.com/maps">Bing Maps</a></li>
+    <p>Map multiple locations, get transit/walking/driving directions, view live traffic conditions, plan trips, view satellite imagery and Streetside street view imagery.</p>
  <li><a href="https://calcmaps.com/">Calcmaps</a></li>
     <p>An online resource that enables visitors to easily and quickly use maps in order to measure, search and overlay mark-up elements on maps for a wide range of useful applications.</p>
  <li><a href="https://checkmypostcode.uk/">Check My Postcode</a></li>
@@ -44,6 +46,8 @@
   <p>Explore the World in 3D.</p>
  <li><a href="https://www.flickr.com/map/">Flickr Map</a></li>
   <p>Geolocated Flickr photographs displayed on a world map.</p>
+  <li><a href="https://map.footpath.ai/">footpath.ai</a></li>
+  <p>Professional street-level imagery collected on sidewalks and footpaths. May provide better imagery than those collected from cars due to being closer to buildings.</p>
  <li><a href="https://labs.tib.eu/geoestimation/">Geo-Estimation</a></li>
   <p>This tool demonstrates the automatic geolocation estimation of photos based on deep convolutional neural networks. In addition to the analysis of own photos, the user can compete in a quiz against the machine learning approach.</p> 
  <li><a href="https://geograph.org.uk/">Geograph UK</a></li>
@@ -76,8 +80,10 @@
    <p>MapChecking helps you estimate the number of people standing in a given area. Fact check and debunk political claims during gatherings, march, and protests.</p>    
  <li><a href="https://www.mapcustomizer.com/">Map Customizer</a></li>
    <p>You can use this site to plot multiple addresses on a single map using Google Maps.</p>
- <li><a href="https://mapillary.com/">Mapillary</a></li>
-   <p>Access street-level imagery and map data from all over the world.</p>
+ <li><a href="https://mapilio.com/app">Mapilio</a></li>
+   <p>Community-contributed street-level imagery available under CC-BY-SA.</p>
+   <li><a href="https://mapillary.com/">Mapillary</a></li>
+   <p>Community-contributed street-level imagery available under CC-BY-SA. Subsidiary of Meta.</p>
  <li><a href="https://www.mapquest.com/">MapQuest</a></li>
    <p>MapQuest created the world's first online mapping and turn-by-turn directions service.</p>
  <li><a href="https://www.locusmap.app/">Map Locus</a></li>
@@ -100,6 +106,8 @@
    <p>Overpass turbo is a web based data mining tool for OpenStreetMap.</p>
  <li><a href="https://explore.overturemaps.org/">Overture Maps</a></li>
    <p>Access detailed building data, current social associations and metadata linked to the location.</p>
+ <li><a href="https://api.panoramax.xyz/">Panoramax</a></li>
+    <p>Community-contributed street-level and illustrative imagery.</p>  
  <li><a href="https://peakfinder.org/">Peak Finder</a></li>
     <p>PeakFinder shows a 360° panoramic view from an arbitrary viewpoint of your choice.</p>
  <li><a href="https://peakvisor.com/">Peak Visor</a></li> 
@@ -132,6 +140,8 @@
     <p>Wikiloc is a place to discover and share the best outdoor trails for hiking, cycling and many other activities.</p>
  <li><a href="http://wikimapia.org/">Wikimapia</a></li>
     <p>Wikimapia is an online editable map - you can describe any place on Earth. Or just surf the map discovering tonns of already marked places.</p>
+<li><a href="https://wikishootme.toolforge.org/">WikiShootMe!</a></li>
+    <p>A map of geolocated Wikimedia Commons and Flickr photos (the latter is disabled by default). It shows Wikidata items that are geolocated but have no picture, and vice versa.</p>   
  <li><a href="https://yandex.com/maps/">Yandex Maps</a></li>
     <p>Yandex Maps will help you find your destination even if you don't have the exact address — get a route for taking public transport, driving, or walking.</p>
  </ul>
