@@ -16,6 +16,8 @@
     </tr>
 </table>
 <ul>
+  <li><a href="https://alltext.nyc/">All Text</a></li>   
+  <p>Search for text in NYC streets.</p>
  <li><a href="https://alltrails.com/">All Trails</a></li>
     <p>AllTrails is a fitness and travel mobile app used in outdoor recreational activities. User-submitted geolocated photos are visible when viewing the map of a certain trail.</p>
  <li><a href="https://maps.apple.com/">Apple Maps</a></li>
