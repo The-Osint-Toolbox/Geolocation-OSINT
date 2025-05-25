@@ -194,6 +194,8 @@
     <p>Sentinel Hub is an engine for processing of petabytes of satellite data. It is opening the doors for machine learning and helping hundreds of application.</p>
  <li><a href="https://soar.earth/">Soar Earth</a></li>
     <p>Soar is the new atlas of the world's maps and satellite imagery, crowd-sourced from individuals, organisations, and the broader community.</p>
+ <li><a href="https://spacefromspace.com/">SpaceFromSpace</a></li> 
+  <p>Browse free high resolution satellite imagery past and present of spaceports, cities, and more from all over the world.</p> 
  <li><a href="https://zoom.earth/">Zoom</a></li>
     <p>World weather map. Track hurricanes, cyclones, storms. View LIVE satellite images, rain radar, forecast maps of wind, temperature for your location.</p>
 </ul>
