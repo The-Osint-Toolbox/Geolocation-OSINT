@@ -157,7 +157,7 @@
 <li><a href="https://checkmypostcode.uk/">Check My Postcode</a></li>
   <p>Use Check My Postcode to find out all the key information for UK local postcodes.</p>
 <li><a href="https://www.doogal.co.uk/">Doogal</a></li>
-  <p>A site covering UK postcodes, map tools, cycling and Strava.</p>
+  <p>A site covering UK postcodes, map tools.</p>
 <li><a href="https://www.isladogs.co.uk/about-us/index.html">Mendip Data Systems</a></li>
   <p>The site includes several commercial applications as well as a wide range of free example applications, code samples and extended articles.</p>
 <li><a href="https://ons.maps.arcgis.com/home/search.html?restrict=true&sortField=relevance&sortOrder=desc&searchTerm=tags%3AONS+Postcode+Directory#content">ONS Maps</a></li>
