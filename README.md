@@ -108,6 +108,8 @@
    <p>Overpass turbo is a web based data mining tool for OpenStreetMap.</p>
  <li><a href="https://explore.overturemaps.org/">Overture Maps</a></li>
    <p>Access detailed building data, current social associations and metadata linked to the location.</p>
+ <li><a href="https://pano-date.emily.bz/">Pano Date</a></li> 
+  <p>Pano date resolver, find out the exact time when a given pano was taken on Google Streetview.</p>
  <li><a href="https://api.panoramax.xyz/">Panoramax</a></li>
     <p>Community-contributed street-level and illustrative imagery.</p>  
  <li><a href="https://peakfinder.org/">Peak Finder</a></li>
