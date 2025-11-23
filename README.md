@@ -48,7 +48,7 @@
   <p>Explore the World in 3D.</p>
  <li><a href="https://www.flickr.com/map/">Flickr Map</a></li>
   <p>Geolocated Flickr photographs displayed on a world map.</p>
-  <li><a href="https://map.footpath.ai/">footpath.ai</a></li>
+  <li><a href="https://map.footpath.ai/">Footpath.ai</a></li>
   <p>Professional street-level imagery collected on sidewalks and footpaths. May provide better imagery than those collected from cars due to being closer to buildings.</p>
  <li><a href="https://labs.tib.eu/geoestimation/">Geo-Estimation</a></li>
   <p>This tool demonstrates the automatic geolocation estimation of photos based on deep convolutional neural networks. In addition to the analysis of own photos, the user can compete in a quiz against the machine learning approach.</p> 
