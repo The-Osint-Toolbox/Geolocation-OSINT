@@ -24,6 +24,8 @@
   <p>Apple maps web. Listings link to Foursquare and and other services for pictures.</p>
    <li><a href="https://lookmap.eu.pythonanywhere.com/">Apple Look Around Viewer</a></li>
   <p>Easier way to view Apple Look Around panoramas.</p>
+ <li><a href="https://archeomaps.stevejonk.com/">Archeomaps</a></li> 
+  <p>Pinpoints significant historical points on a world map.</p>
  <li><a href="https://mc.bbbike.org/mc/">Bbbike</a></li>
     <p>BBBike Map Compare shows you more than 230 maps from OpenStreetMap, Google, Bing, Esri, Here and others side by side.</p>
  <li><a href="https://osm-search.bellingcat.com/">Bellingcat</a></li> 
