@@ -142,6 +142,8 @@
     <p>Spot allows you to search for relations between entities in OpenStreetMap.</p>
  <li><a href="https://suncalc.org/">Suncalc</a></li>
     <p>SunCalc shows the movement of the sun and sunlight-phase for a certain day at a certain place.</p>
+  <li><a href="https://kluter.github.io/TracePoint/">TracePoint</a></li>
+    <p>Locate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.</p>
  <li><a href="https://timeanddate.com/">Time & Date</a></li>
     <p>Current Time (World Clock) and online and printable Calendars for countries worldwide.</p>
  <li><a href="https://what3words.com/">What 3 Words</a></li>
