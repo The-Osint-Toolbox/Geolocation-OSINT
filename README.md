@@ -253,6 +253,7 @@
     <li><a href="https://uktraffic.live/">UK Traffic Live</a></li>
      <p>Real-time monitoring of the UK’s 4,339 live traffic cameras.</p>
     <li><a href="https://www.waze.com/live-map">Waze Live Map</a></li> 
+<li><a href="https://github.com/Xquik-dev/x-twitter-scraper">Xquik</a> - Independent X (Twitter) data API for search, follower export, monitors, and MCP.</li>
      <p>Waze Live Map is a browser-based version of the operational Waze maps. It displays current traffic and reports from Wazers using their client app.</p>
 </ul>
 <br></br>
