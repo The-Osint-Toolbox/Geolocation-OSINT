@@ -62,6 +62,8 @@
   <p>The GeoNames geographical database covers all countries and contains over eleven million placenames.</p>
  <li><a href="https://geospy.ai/">Geospy</a></li>
   <p>Geospy will try to locate where an image was taken using AI</p>
+ <li><a href="https://geotag.world/">GeoTag.world</a></li>
+  <p>Reads the GPS coordinates stored in a photo's EXIF and shows the spot on a map. Free, no account needed.</p>
  <li><a href="https://www.mapdevelopers.com/">Google Map Developers</a></li>
   <p>Map Developers provides prebuilt google maps functionality, along with custom built implementations made to your specifications.</p>
  <li><a href="https://google.com/maps">Google Maps</a></li>
