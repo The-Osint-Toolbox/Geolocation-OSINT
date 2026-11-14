@@ -100,6 +100,8 @@
    <p>Map source aggregator.</p>
  <li><a href="https://neshan.org/">Neshan</a></li>
    <p>Persian / Iranian version of Google Maps</p>
+  <li><a href="https://oceanir.ai/">Oceanir</a></li>
+   <p>Oceanir estimates where a photo was taken using visual clues, even when GPS metadata is unavailable. Estimates should be independently verified.</p>
  <li><a href="https://omaps.worldofo.com/gmaps.php">Omaps</a></li>
    <p>Orienteering Maps.</p>  
  <li><a href="https://openaerialmap.org/">Open Aerial Map</a></li>
@@ -122,8 +124,6 @@
     <p>PeakFinder shows a 360° panoramic view from an arbitrary viewpoint of your choice.</p>
  <li><a href="https://peakvisor.com/">Peak Visor</a></li> 
    <p>PeakVisor uses your iPhone's camera and augmented reality (AR) technology to display names and elevation of nearby peaks.</p>
- <li><a href="https://oceanir.ai/">Oceanir</a></li>
-   <p>Oceanir estimates where a photo was taken using visual clues, even when GPS metadata is unavailable. Estimates should be independently verified.</p>
  <li><a href="https://picarta.ai/">Picarta</a></li>
    <p>Picarta will predict where a photo has been taken in the world using Artificial Intelligence.</p>
  <li><a href="https://www.pogomap.info/">Pogomap</a></li>
