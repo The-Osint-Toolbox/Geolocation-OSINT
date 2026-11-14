@@ -58,6 +58,8 @@
   <p>The Geograph Britain and Ireland project aims to collect geographically representative photographs and information for every square kilometre of Great Britain and Ireland.</p>
  <li><a href="https://geohints.com/">GeoHints</a></li>
   <p>GeoHints is a website that provides information about things like traffic lights, utility poles, bollards etc. for different regions of the world to help geolocate a location.</p>
+ <li><a href="https://geoinfer.com/">GeoInfer</a></li>
+  <p>GeoInfer predicts where a photo was taken from its visual content alone, with no EXIF or GPS metadata needed. Web app with a free daily trial, plus an API.</p>
  <li><a href="https://www.geonames.org/">GeoNames</a></li>
   <p>The GeoNames geographical database covers all countries and contains over eleven million placenames.</p>
  <li><a href="https://geospy.ai/">Geospy</a></li>
