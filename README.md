@@ -46,6 +46,8 @@
    <p>Dual maps combine Google Maps, Birds Eye Imagery and Google Street View into one embeddable control. Dual Maps are free to use. No registration is required.</p>
  <li><a href="https://earthkit.app/sift">EarthKit</a></li>
    <p>A Nifty toolkit that helps you Geolocate faster with AI.</p>
+  <li><a href="https://github.com/minimallyexceptional/exif-hound">EXIF Hound</a></li>
+    <p>Free, open-source desktop app (macOS, Windows, Linux) to inspect image EXIF metadata locally, map GPS-tagged photos, import KML, and export CSV/JSON. No uploads, no telemetry.</p>
  <li><a href="https://demo.f4map.com/#camera.theta=0.9">F4 Maps</a></li>
   <p>Explore the World in 3D.</p>
  <li><a href="https://www.flickr.com/map/">Flickr Map</a></li>
