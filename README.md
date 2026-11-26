@@ -156,6 +156,8 @@
     <p>Every 3 metre square of the world has been given a unique combination of three words. Used for e-commerce and delivery, navigation, emergencies and more.</p>   
  <li><A href="https://www.wikiloc.com/">Wikiloc</A></li>
     <p>Wikiloc is a place to discover and share the best outdoor trails for hiking, cycling and many other activities.</p>
+ <li><a href="https://wherematch.com/">WhereMatch</a></li>
+   <p>WhereMatch estimates where a photo was taken from what is visible in it, with no EXIF or GPS metadata needed. Free, no account. Results are estimates and should be independently verified.</p>
  <li><a href="http://wikimapia.org/">Wikimapia</a></li>
     <p>Wikimapia is an online editable map - you can describe any place on Earth. Or just surf the map discovering tonns of already marked places.</p>
 <li><a href="https://wikishootme.toolforge.org/">WikiShootMe!</a></li>
